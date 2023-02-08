@@ -29,3 +29,6 @@ display(ca_df)
 
 #Exibe a 4a. linha.
 display(ca_df.loc[3])
+
+#Exibe da 10a. linha até a 20a. linha
+display(ca_df.loc[9:19])
